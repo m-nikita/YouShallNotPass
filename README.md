@@ -8,3 +8,5 @@ Functional services.:
 - Apache
 - MySQL
 - 3 users (Victor, Jonathan and Marc)
+
+Project carried out with Marco Viallefont.
