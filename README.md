@@ -2,7 +2,7 @@
 
 Set up a network and system security with an architecture of 3 virtual machines (1 client, 1 gateway, 1 server).
 
-Functional services.:
+Functional services :
 - SSH
 - NAT
 - Apache
